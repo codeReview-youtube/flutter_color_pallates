@@ -1,0 +1,12 @@
+Bloc is the number one when it comes to state management 
+in flutter apps.
+it got recently updated to have more simpler 
+api's to manage state across flutter widgets.
+In this video, we will go through 
+the main concept of Bloc Pattern by building 
+a theme palletes app.
+
+If you are new here, 
+don't forget to subscribe 
+to the channel and hit the like button 
+otherwise. and let's get started.
